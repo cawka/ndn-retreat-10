@@ -9,8 +9,8 @@ exclude: ['_DOCS', '_SCRIPTS', '.travis.yml', '.travis.d', '.sass-cache', 'Gemfi
 plugins:
   - jekyll-assets
 
-url: http://ndn-retreat.url.com
-baseurl: 
+url: https://www.named-data.net
+baseurl: /retreats/10
 
 # Configuration for site
 title: NDN Retreat

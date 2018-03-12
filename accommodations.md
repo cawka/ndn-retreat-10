@@ -132,13 +132,6 @@ hotels:
 
 # {{ page.title }}
 
-<!-- The main conference venue is [UCLA Meyer and Renee Luskin Conference Center](http://luskinconferencecenter.ucla.edu/). -->
-<!-- However, there are many other options for accommodation, including the Hotel Angeleno and AirBnB, available within walking distance, via hotel shuttle, or using public transportation. -->
-
-<!-- <h2><b>Several rooms in Hotel Angeleno are still available. The conference cut off date is July 13, 2017!</b></h2> -->
-
-<!-- Below is a list of conference hotels: -->
-
 {% for hotel in page.hotels %}
 {% include hotel.html expanded=1 %}
 {% endfor %}
