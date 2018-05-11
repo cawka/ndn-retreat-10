@@ -29,8 +29,10 @@ program:
 menu:
 - name: Home
   url: /
+  icon: fa-home
 - name: Program
   url: /program.html
+  icon: fa-list-ul
 - name: Accommodations
   icon: fa-map
   url: /accommodations.html

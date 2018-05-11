@@ -47,7 +47,8 @@
     </h4>
     <ul data-role="listview" data-inset="false">
       <li data-icon="false">
-        <p><b>{{ abstract_label }}: </b>{{ paper.abstract }}</p>
+        <p>{% comment %}<b>{{ abstract_label }}: </b>{% endcomment %}
+          {{ paper.abstract | newline_to_br }}</p>
         <p>&nbsp;</p>
       </li>
     </ul>
