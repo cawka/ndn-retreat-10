@@ -100,7 +100,7 @@ hotels:
 
 - id: hilton
   name: "Hilton Garden Inn Miami Dolphin Mall"
-  address: 11600 NW 41st Street, Miami, FL 33178
+  address: 1695 NW 111th Ave, Miami, FL, 33172
   url: 
   phone:
   distance: 4.3 miles
