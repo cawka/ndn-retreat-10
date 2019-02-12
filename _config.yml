@@ -10,7 +10,7 @@ plugins:
   - jekyll-assets
 
 url: https://www.named-data.net
-baseurl: /retreats/10
+baseurl: /retreats/11
 
 # Configuration for site
 title: NDN Retreat
@@ -23,7 +23,7 @@ program:
   google_client_id: .travis.d/google_client_id.json
   # Google spreadsheet with the conference data
   spreadsheet:
-    - "1peNQ03JvtqeNqELAzajZBq3CPIubmRh9Q34I1uxG0hw" # main
+    - "1JQlaJAHWSm_05Ccp_Osy1vb1cZFGU_3TXjQraq42G5c" # main
 
 # Configuration for navbar.html
 menu:
