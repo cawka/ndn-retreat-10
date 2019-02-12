@@ -2,7 +2,7 @@
   <h3><font class="hotel-header">{{ hotel.name }}</font></h3>
 
   {% if hotel.image %}
-    <img style="float:right;" src="{{ site.baseurl }}/{{ hotel.image }}" alt="{{ hotel.name }}" />
+    {% asset "{{ hotel.image }}" style="float:right;" alt="{{ hotel.name }}" %}
   {% endif %}
 
   <p>{{ hotel.address }}<br/>
