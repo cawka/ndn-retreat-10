@@ -43,7 +43,7 @@ hotels:
     rating: 2
     address: 927 Hilgard Ave Los Angeles, CA 90024
     phone: (310) 208-3945, (800) 826-3934
-    reservation-link: https://www.hotels.com/ho483132/?q-check-out=2018-06-29&q-check-in=2018-06-24
+    reservation-link: https://www.hotels.com/ho483132/?q-check-out=2019-03-10&q-check-in=2019-03-06
     map: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3305.1204076479407!2d-118.44535033474818!3d34.06642752442976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x80c2bc80c29ca7d3%3A0xd27a73d540e52357!2sHilgard+House+Hotel+%26+Suites%2C+927+Hilgard+Ave%2C+Los+Angeles%2C+CA+90024!3m2!1d34.0631863!2d-118.4415976!4m5!1s0x80c2bc88bcefb20f%3A0xc622b89fcd2f5d21!2sEngineering+VI%2C+Westwood+Plaza%2C+Los+Angeles%2C+CA+90095!3m2!1d34.0696771!2d-118.4442945!5e0!3m2!1sen!2sus!4v1522599295162
 
   - id: royal
@@ -54,7 +54,7 @@ hotels:
     address: 1052 Tiverton Ave Los Angeles, CA 90024
     phone: (310) 208-6677
     rating: 2
-    reservation-link: https://www.hotels.com/ho218157/?q-check-out=2018-06-29&q-check-in=2018-06-24
+    reservation-link: https://www.hotels.com/ho218157/?q-check-out=2019-03-10&q-check-in=2019-03-06
     map: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6610.364971745223!2d-118.4475699738806!3d34.06483601024111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x80c2bc81b6b5a8df%3A0x450a9efde8ecc81d!2sRoyal+Palace+Westwood+Hotel%2C+1052+Tiverton+Ave%2C+Los+Angeles%2C+CA+90024!3m2!1d34.0606338!2d-118.4429579!4m5!1s0x80c2bc88bcefb20f%3A0xc622b89fcd2f5d21!2sEngineering+VI%2C+Westwood+Plaza%2C+Los+Angeles%2C+CA+90095!3m2!1d34.0696771!2d-118.4442945!5e0!3m2!1sen!2sus!4v1522599313928
     note: Discounts for nearby attractions, and standard hotel amenities
 
@@ -76,7 +76,7 @@ hotels:
     url: http://www.starwoodhotels.com/whotels/property/overview/index.html?propertyID=97518
     phone:  (310) 208-8765, (888) 627-7135
     rating: 4
-    reservation-link: https://www.hotels.com/ho116008/?q-check-out=2018-06-29&q-check-in=2018-06-24
+    reservation-link: https://www.hotels.com/ho116008/?q-check-out=2019-03-10&q-check-in=2019-03-06
     map: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3305.11985375466!2d-118.44527698474815!3d34.066441724429076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x80c2bc80951ef67d%3A0x43cd0ec4e1582890!2sW+Los+Angeles+-+West+Beverly+Hills%2C+930+Hilgard+Ave%2C+Los+Angeles%2C+CA+90024!3m2!1d34.0631975!2d-118.44092339999999!4m5!1s0x80c2bc88bcefb20f%3A0xc622b89fcd2f5d21!2sEngineering+VI%2C+Westwood+Plaza%2C+Los+Angeles%2C+CA+90095!3m2!1d34.0696771!2d-118.4442945!5e0!3m2!1sen!2sus!4v1522599358108
     note: Designed for business travelers, restaurant and café, gym and pool, pet-friendly, spa services, and standard hotel amenities.
 
@@ -88,7 +88,7 @@ hotels:
     url: http://www.hotelpalomar-beverlyhills.com/index.html
     phone: (310) 475-8711, (800) 472-8556
     rating: 4
-    reservation-link: https://www.hotels.com/ho130405/?q-check-out=2018-06-29&q-check-in=2018-06-24
+    reservation-link: https://www.hotels.com/ho130405/?q-check-out=2019-03-10&q-check-in=2019-03-06
     map: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6610.398238890218!2d-118.44573527388076!3d34.064409560286386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x80c2bc7f881104d7%3A0x234209e088bcad31!2sKimpton+Hotel+Palomar+Los+Angeles+Beverly+Hills%2C+10740+Wilshire+Blvd%2C+Los+Angeles%2C+CA+90024!3m2!1d34.060038899999995!2d-118.4374007!4m5!1s0x80c2bc88bcefb20f%3A0xc622b89fcd2f5d21!2sEngineering+VI%2C+Westwood+Plaza%2C+Los+Angeles%2C+CA+90095!3m2!1d34.0696771!2d-118.4442945!5e0!3m2!1sen!2sus!4v1522599387774
     note: Restaurant, pool, 24 hour fitness room, shuttle to/from UCLA, pet-friendly, free wireless Internet, day-care center for kids, same day laundry/dry-cleaning service, and standard hotel amenities. Exclusive AAA member discounts.
 
