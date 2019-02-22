@@ -9,7 +9,7 @@
         {% if item.url == page.url %}{% assign active = 'navselected' %}
         {% else %}{% assign active = nil %}{% endif %}
         <li class="{% if forloop.first != true and forloop.last != true %}notlast{% endif %} {{ active }} {% if active == nil %}{{ item.highlight }}{% endif %}" data-icon="false">
-          <a href="{{ site.baseurl }}{{ item.url }}">{% if item.icon %}<i class="fa {{ item.icon }}" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;{% endif %}{{ item.name }}</a>
+          <a href="{% unless item.url contains "http" %}{{ site.baseurl }}{% endunless %}{{ item.url }}">{% if item.icon %}<i class="fa {{ item.icon }}" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;{% endif %}{{ item.name }}</a>
         </li>
       {% else %}
         {% if item.name == page.group %}{% assign collapsed = 'data-collapsed="false"' %}

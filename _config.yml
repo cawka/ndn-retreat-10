@@ -37,6 +37,10 @@ menu:
   icon: fa-map
   url: /accommodations.html
 
+- name: ">> Registration <<"
+  icon: "fas fa-cash-register"
+  url: https://www.eventbrite.com/e/11th-ndn-retreat-tickets-57051272893
+
 colors:
   highlight: 2E85C2
   highlight-darker: 2E85C2
