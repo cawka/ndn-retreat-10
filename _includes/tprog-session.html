@@ -6,7 +6,7 @@
     {% else %}
       {{ session.title }}
     {% endif %}
-    {% if include.is_break and session.room and session.room %}
+    {% if include.is_break and session.room and session.room != "" %}
       ({{ session.room }})
     {% endif %}
   </h3>
