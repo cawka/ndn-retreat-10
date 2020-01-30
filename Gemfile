@@ -1,29 +1,27 @@
 source "https://rubygems.org"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-gem 'jekyll', '~> 3.5', '>= 3.5.2'
+gem 'jekyll', '~> 3.8', '>= 3.8.6'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'sprockets', '~> 4.0.0.beta6'
-  gem 'jekyll-assets', '~> 3.0', '>= 3.0.7'
-  gem 'autoprefixer-rails', '~> 8.0'
-  gem 'mini_magick', '~> 4.8'
+  gem 'sprockets', '~> 3.7', '>= 3.7.2'
+  # # 3.0.x not compatible with sprockets 4 that are now installed
+  gem 'jekyll-assets', '~> 3.0', '>= 3.0.12'
+  # gem "jekyll-assets", git: "https://github.com/cawka/jekyll-assets", :ref => 'ef0016c13a4ac747f1a791b9668b75534dd98927'
+
+  gem 'autoprefixer-rails', '~> 9.7', '>= 9.7.2'
+  gem 'mini_magick', '~> 4.9', '>= 4.9.5'
   gem 'yui-compressor', '~> 0.12.0'
-  gem 'uglifier', '~> 4.1', '>= 4.1.6'
+  gem 'uglifier', '~> 4.2'
 
   gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
-  gem 'font-awesome-sass', '~> 5.0', '>= 5.0.6.2'
-  gem 'google_drive', '~> 2.1', '>= 2.1.8'
-  gem 'jekyll-sitemap', '~> 1.2'
-end
+  gem 'font-awesome-sass', '~> 5.11', '>= 5.11.2'
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+  gem 'google_drive', '~> 3.0', '>= 3.0.3'
+
+  gem 'execjs'
+  gem 'mini_racer'
+
+  gem 'jekyll-sitemap', '~> 1.4'
+  gem 'jekyll-last-modified-at', '~> 1.2', '>= 1.2.1'
+end
