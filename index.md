@@ -7,7 +7,11 @@ group: Welcome
 
 # Welcome to 12th NDN Project Retreat
 
-The Named Data Networking (NDN) Project will host its 12th NDN Retreat on March 12-13, 2020 on the University of Arizona campus.
+The Named Data Networking (NDN) Project will host its 12th NDN Retreat on March 12-13, 2020 on the University of Arizona campus:
+
+> The University of Arizona  
+> Gould-Simpson #906  
+> Tucson, Arizona 85721
 
 [The 10th NDN Hackathon](http://10th-ndn-hackathon.named-data.net/) will be on March 14-15 (end of Friday, all day Saturday, morning of Sunday), 202, right after the retreat.
 
