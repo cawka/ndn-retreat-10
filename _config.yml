@@ -10,7 +10,7 @@ plugins:
   - jekyll-assets
 
 url: https://named-data.net
-baseurl: /retreats/12
+baseurl: /retreats/13
 
 # Configuration for site
 title: NDN Retreat
@@ -23,8 +23,8 @@ program:
   google_client_id: .travis.d/google_client_id.json
   # Google spreadsheet with the conference data
   spreadsheet:
-    - "1Xc1VgfPRRtTX7gmRYZ_GW6iqk-R6yWzuX_pOD6FQvBM" # main
-
+    - "1n_hWtmgqCaNrECdMY1bEOhHsLvZzjnxHHALd1m8-U2o" # main
+    
 # Configuration for navbar.html
 menu:
 - name: Home
@@ -37,9 +37,9 @@ menu:
   icon: fa-map
   url: /accommodations.html
 
-- name: ">> Registration <<"
-  icon: "fas fa-cash-register"
-  url: https://www.eventbrite.com/e/12th-ndn-retreat-tickets-92276327981
+# - name: ">> Registration <<"
+#   icon: "fas fa-cash-register"
+#   url: https://www.eventbrite.com/e/12th-ndn-retreat-tickets-92276327981
 
 colors:
   highlight: 2E85C2
