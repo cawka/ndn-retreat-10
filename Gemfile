@@ -1,13 +1,14 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 3.8', '>= 3.8.6'
+gem 'rake', '~> 13.0', '>= 13.0.6'
+gem 'jekyll', '~> 4.2', '>= 4.2.1'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'sprockets', '~> 3.7', '>= 3.7.2'
+  # gem 'sprockets', '~> 3.7', '>= 3.7.2'
   # # 3.0.x not compatible with sprockets 4 that are now installed
-  gem 'jekyll-assets', '~> 3.0', '>= 3.0.12'
-  # gem "jekyll-assets", git: "https://github.com/cawka/jekyll-assets", :ref => 'ef0016c13a4ac747f1a791b9668b75534dd98927'
+  # gem 'jekyll-assets', '~> 3.0', '>= 3.0.12'
+  gem "jekyll-assets", github: 'envygeeks/jekyll-assets', ref: '056d2c88719ef3b1f90967a606dd1441581dd832'
 
   gem 'autoprefixer-rails', '~> 9.7', '>= 9.7.2'
   gem 'mini_magick', '~> 4.9', '>= 4.9.5'

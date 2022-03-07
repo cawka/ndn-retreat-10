@@ -3,4 +3,5 @@
 Gemfile.lock
 _site
 .sass-cache
+.jekyll-cache/
 *.pyc
