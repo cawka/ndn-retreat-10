@@ -36,10 +36,9 @@ menu:
 - name: Accommodations
   icon: fa-map
   url: /accommodations.html
-
-# - name: ">> Registration <<"
-#   icon: "fas fa-cash-register"
-#   url: https://www.eventbrite.com/e/12th-ndn-retreat-tickets-92276327981
+- name: ">> Registration <<"
+  icon: "fas fa-cash-register"
+  url: https://www.eventbrite.com/e/13th-ndn-retreat-tickets-294648229787
 
 colors:
   highlight: 2E85C2
